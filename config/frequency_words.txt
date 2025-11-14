@@ -190,4 +190,21 @@ eth
 道琼斯指数
 标普500指数
 
+US RXRX
+US ARCT
+US RDW
+US CCCX
+US CLF
+
+涂鸦智能
+亚马逊
+谷歌
+meta
+台积电
+
+开市客
+沃尔玛
+三倍做多半导体etf
+三倍做多纳斯达克etf
+
 房地产
